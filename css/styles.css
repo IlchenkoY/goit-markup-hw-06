@@ -784,8 +784,8 @@ address {
   width: 16px;
   height: 15px;
   border-radius: 2px;
-  margin-right: 8px;
-  background-image: url('../images/Vector.svg');
+  margin-right: 3px;
+  background-image: url('../images/vector.svg');
 }
 .modal-form-policy:checked + .modal-form-policy-text::before {
   background-color: var(--accent-color);
